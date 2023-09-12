@@ -38,7 +38,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'cmp_corp.urls'
+ROOT_URLCONF = 'cmp_app_corp.urls'
 
 TEMPLATES = [
     {
